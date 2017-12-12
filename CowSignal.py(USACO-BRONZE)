@@ -1,3 +1,4 @@
+#Solution to December 2016 Bronze Problem(CowSignal)
 l = []
 with open("cowsignal.in","U") as f:
   r = f.readlines()
